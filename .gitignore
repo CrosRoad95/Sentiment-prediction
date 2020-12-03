@@ -1,0 +1,17 @@
+
+.vs/AdvertDetector/v16/.suo
+
+AdvertDetector/bin/
+AdvertDetector/obj/
+
+AdvertDetector/Properties/PublishProfiles/AdvertDetector20201112172258.pubxml
+
+AdvertDetector/Properties/PublishProfiles/AdvertDetector20201112172258.pubxml.user
+
+AdvertDetector/Properties/serviceDependencies.AdvertDetector20201112172258.json
+
+AdvertDetector/Properties/serviceDependencies.AdvertDetector20201112172258.json.user
+
+AdvertDetector/Properties/ServiceDependencies/AdvertDetector20201112172258/profile.arm.json
+
+MLModels/SentimentModel.zip
